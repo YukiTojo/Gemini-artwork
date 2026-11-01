@@ -1,0 +1,181 @@
+{
+  "character": "Gemini",
+  "credit": "Rei Yuki",
+  "prepared_date": "2026-11-01",
+  "release_status": "release-copy",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "assets": [
+    {
+      "order": 1,
+      "title": "立绘",
+      "source_filename": "立绘.png",
+      "path": "artwork/01-full-body.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1763827,
+      "sha256": "03d43096f6f27c24f7faa5d44796f5e82c51213b78ba6f93f766f8ad79ceb989",
+      "has_alpha_channel": true,
+      "credit": "Rei Yuki",
+      "character": "Gemini",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_status": "CC-BY-NC-SA-4.0-with-stated-exclusions",
+      "license_scope": "Only copyright and similar rights held or licensable by Rei Yuki; third-party rights excluded.",
+      "visible_exclusion_ids": [
+        "E1",
+        "E3"
+      ],
+      "title_en": "Full-body illustration"
+    },
+    {
+      "order": 2,
+      "title": "正比三视图与头部细节",
+      "source_filename": "三视图.jpeg",
+      "path": "artwork/02-three-view.jpeg",
+      "width": 5504,
+      "height": 3072,
+      "bytes": 8396433,
+      "sha256": "23dde8bde1c34a63af78da63d1bcf072f33ad8a47dd3d4ee90e1a3c553342521",
+      "has_alpha_channel": false,
+      "credit": "Rei Yuki",
+      "character": "Gemini",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_status": "CC-BY-NC-SA-4.0-with-stated-exclusions",
+      "license_scope": "Only copyright and similar rights held or licensable by Rei Yuki; third-party rights excluded.",
+      "visible_exclusion_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "title_en": "Standard-proportion three-view and head details"
+    },
+    {
+      "order": 3,
+      "title": "Q 版三视图",
+      "source_filename": "q版.png",
+      "path": "artwork/03-chibi-three-view.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2453011,
+      "sha256": "1776542de28e89f73b6546f1292522e1a92332c9edbf04c92b81f7d61de220cd",
+      "has_alpha_channel": false,
+      "credit": "Rei Yuki",
+      "character": "Gemini",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_status": "CC-BY-NC-SA-4.0-with-stated-exclusions",
+      "license_scope": "Only copyright and similar rights held or licensable by Rei Yuki; third-party rights excluded.",
+      "visible_exclusion_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "title_en": "Chibi three-view"
+    },
+    {
+      "order": 4,
+      "title": "表情与眼睛、嘴型细节",
+      "source_filename": "表情.png",
+      "path": "artwork/04-expressions.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2794765,
+      "sha256": "2d88e44254f882eb62b03d86e7359ff2b0407aacb23096a532cfe5b22da666f9",
+      "has_alpha_channel": true,
+      "credit": "Rei Yuki",
+      "character": "Gemini",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_status": "CC-BY-NC-SA-4.0-with-stated-exclusions",
+      "license_scope": "Only copyright and similar rights held or licensable by Rei Yuki; third-party rights excluded.",
+      "visible_exclusion_ids": [
+        "E1"
+      ],
+      "title_en": "Expressions, eyes, and mouth details"
+    },
+    {
+      "order": 5,
+      "title": "服装与配件",
+      "source_filename": "服装.png",
+      "path": "artwork/05-outfit.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1869364,
+      "sha256": "cb0ccacc9ac53ba652d50e9fd95109000a5ed4f73d8448930d78d0923c95f2b6",
+      "has_alpha_channel": false,
+      "credit": "Rei Yuki",
+      "character": "Gemini",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_status": "CC-BY-NC-SA-4.0-with-stated-exclusions",
+      "license_scope": "Only copyright and similar rights held or licensable by Rei Yuki; third-party rights excluded.",
+      "visible_exclusion_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "title_en": "Outfit and accessories"
+    },
+    {
+      "order": 6,
+      "title": "Q 版星星眼头像",
+      "source_filename": "q版星星眼头像.jpg",
+      "path": "artwork/06-chibi-star-eyes.jpg",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 316404,
+      "sha256": "a6e26ca782b8e184a60f6cca20f01dffa7742396504d0451c418af693f40ea4d",
+      "has_alpha_channel": false,
+      "credit": "Rei Yuki",
+      "character": "Gemini",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_status": "CC-BY-NC-SA-4.0-with-stated-exclusions",
+      "license_scope": "Only copyright and similar rights held or licensable by Rei Yuki; third-party rights excluded.",
+      "visible_exclusion_ids": [
+        "E1"
+      ],
+      "title_en": "Chibi star-eyes avatar"
+    },
+    {
+      "order": 7,
+      "title": "半身 1",
+      "source_filename": "半身1.png",
+      "path": "artwork/07-half-body-1.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2586002,
+      "sha256": "90b8df2daf6e826ce18d548476b7314d1768e28ec19be2e7d8416963b7e2ca21",
+      "has_alpha_channel": true,
+      "credit": "Rei Yuki",
+      "character": "Gemini",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_status": "CC-BY-NC-SA-4.0-with-stated-exclusions",
+      "license_scope": "Only copyright and similar rights held or licensable by Rei Yuki; third-party rights excluded.",
+      "visible_exclusion_ids": [
+        "E1"
+      ],
+      "title_en": "Half-body 1"
+    },
+    {
+      "order": 8,
+      "title": "半身 2",
+      "source_filename": "半身2.png",
+      "path": "artwork/08-half-body-2.png",
+      "width": 1492,
+      "height": 1054,
+      "bytes": 2314711,
+      "sha256": "d641016b47f7d69a9be685823acbc7ec28996c20621c5adea83f30274f1a99dc",
+      "has_alpha_channel": true,
+      "credit": "Rei Yuki",
+      "character": "Gemini",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_status": "CC-BY-NC-SA-4.0-with-stated-exclusions",
+      "license_scope": "Only copyright and similar rights held or licensable by Rei Yuki; third-party rights excluded.",
+      "visible_exclusion_ids": [
+        "E1"
+      ],
+      "title_en": "Half-body 2"
+    }
+  ],
+  "exclusions": {
+    "E1": "耳机耳罩彩色四角星中涉及的第三方版权及商标权",
+    "E2": "外套背部彩色四角星中涉及的第三方版权及商标权",
+    "E3": "鞋舌彩色几何符号或徽记中涉及的第三方版权及商标权"
+  }
+}
